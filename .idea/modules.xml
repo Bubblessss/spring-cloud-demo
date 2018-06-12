@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer/eureka-customer.iml" filepath="$PROJECT_DIR$/eureka-customer/eureka-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer-feign/eureka-customer-feign.iml" filepath="$PROJECT_DIR$/eureka-customer-feign/eureka-customer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer-feign-hystrix/eureka-customer-feign-hystrix.iml" filepath="$PROJECT_DIR$/eureka-customer-feign-hystrix/eureka-customer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer-ribbon/eureka-customer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-customer-ribbon/eureka-customer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer-ribbon-hystrix/eureka-customer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/eureka-customer-ribbon-hystrix/eureka-customer-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-hello/stream-hello.iml" filepath="$PROJECT_DIR$/stream-hello/stream-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace1/trace1.iml" filepath="$PROJECT_DIR$/trace1/trace1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace2/trace2.iml" filepath="$PROJECT_DIR$/trace2/trace2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/zipkin-server/zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

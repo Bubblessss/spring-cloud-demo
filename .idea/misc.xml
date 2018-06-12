@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-customer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-customer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-customer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-customer-feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/stream-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/trace1/pom.xml" />
+        <option value="$PROJECT_DIR$/trace2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/turbine/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

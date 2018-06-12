@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="eureka-customer" />
+        <module name="eureka-customer-feign" />
+        <module name="eureka-customer-feign-hystrix" />
+        <module name="eureka-customer-hystrix" />
+        <module name="eureka-customer-ribbon" />
+        <module name="eureka-customer-ribbon-hystrix" />
+        <module name="eureka-provider" />
+        <module name="eureka-server" />
+        <module name="hystrix-dashboard" />
+        <module name="model" />
+        <module name="spring-cloud-eureka-customer" />
+        <module name="spring-cloud-eureka-customer-feign" />
+        <module name="spring-cloud-eureka-customer-ribbon" />
+        <module name="spring-cloud-eureka-provider" />
+        <module name="spring-cloud-eureka-server" />
+        <module name="springcloudeureka" />
+        <module name="stream-hello" />
+        <module name="trace1" />
+        <module name="trace2" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="api-gateway" target="1.8" />
+      <module name="eureka-customer" target="1.8" />
+      <module name="eureka-customer-feign" target="1.8" />
+      <module name="eureka-customer-feign-hystrix" target="1.8" />
+      <module name="eureka-customer-hystrix" target="1.8" />
+      <module name="eureka-customer-ribbon" target="1.8" />
+      <module name="eureka-customer-ribbon-hystrix" target="1.8" />
+      <module name="eureka-provider" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="spring-cloud-eureka-customer" target="1.8" />
+      <module name="spring-cloud-eureka-customer-feign" target="1.8" />
+      <module name="spring-cloud-eureka-customer-ribbon" target="1.8" />
+      <module name="spring-cloud-eureka-provider" target="1.8" />
+      <module name="spring-cloud-eureka-server" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="springcloudeureka" target="1.8" />
+      <module name="stream-hello" target="1.8" />
+      <module name="trace" target="1.8" />
+      <module name="trace1" target="1.8" />
+      <module name="trace2" target="1.8" />
+      <module name="turbine" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
